@@ -2,4 +2,5 @@
 yum install -y httpd
 yum install -y rubygem-rake
 gem install haml
-
+gem install minitest
+rake
